@@ -6,7 +6,7 @@ Users can create new surveys, see the answers to their surveys, and take surveys
 
 ### Links
 - [Application](https://acupoftee.github.io/Rocket-Surveys-Client/)
-- [Back end](https://powerful-river-69963.herokuapp.com/)
+- [Back end](https://rocket-surveys-acupoftee.herokuapp.com/)
 - [Front end repo](https://github.com/acupoftee/Rocket-Surveys-Client)
 - [Back end repo](https://github.com/acupoftee/rocket-surveys-api)
 
