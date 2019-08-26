@@ -10,6 +10,10 @@ Users can create new surveys, see the answers to their surveys, and take surveys
 - [Front end repo](https://github.com/acupoftee/Rocket-Surveys-Client)
 - [Back end repo](https://github.com/acupoftee/rocket-surveys-api)
 
+*This repo is a fork of Rocket Sureys which was originally made for a team project. This repo contains additional
+resources that have yet to be implemented in the original project. Links to the [backend](https://github.com/sei3-team-rocket/rocket-surveys-api) and [frontend](https://github.com/sei3-team-rocket/Rocket-Surveys-Client) can be found [here](https://github.com/sei3-team-rocket).
+
+
 ### Development
 1. Team launch w/ sprint planning meeting.
   1. Ongoing team stand ups: morning, after lunch, evening.
@@ -161,6 +165,10 @@ Collection: Ratings
 ![Take Survey](https://i.imgur.com/U7JzIY5.png "Take Survey")
 
 ![Create Survey](https://i.imgur.com/nfav5gf.png "Create Survey")
+
+![View Surveys](https://i.imgur.com/qhdTgMA.jpg "View Surveys")
+
+![Take Surveys](https://i.imgur.com/e8kd6W1.jpg "Take Surveys")
 
 ### Unsolved Issues / Future Features
 - Include new resource for survey distribution URLs
