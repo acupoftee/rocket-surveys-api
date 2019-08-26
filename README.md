@@ -11,7 +11,7 @@ Users can create new surveys, see the answers to their surveys, and take surveys
 - [Back end repo](https://github.com/acupoftee/rocket-surveys-api)
 
 *This repo is a fork of Rocket Sureys which was originally made for a team project. This repo contains additional
-resources that have yet to be implemented in the original project. Links to the [backend](https://github.com/sei3-team-rocket/rocket-surveys-api) and [frontend](https://github.com/sei3-team-rocket/Rocket-Surveys-Client) can be found [here](https://github.com/sei3-team-rocket).
+resources that have yet to be implemented in the original project. Links to the [backend](https://github.com/sei3-team-rocket/rocket-surveys-api) and [frontend](https://github.com/sei3-team-rocket/Rocket-Surveys-Client) can be found [here](https://github.com/sei3-team-rocket).*
 
 
 ### Development
